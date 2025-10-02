@@ -76,6 +76,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>demo-ecs</finalName>
 	</build>
 
 </project>
