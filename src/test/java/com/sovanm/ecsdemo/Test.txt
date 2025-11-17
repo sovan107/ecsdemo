@@ -1,0 +1,21 @@
+
+Project Release Timeline
+| Date | Milestone / Activity | Details |
+|---|---|---|
+| Dec 3rd | Cut Over & Fixes | Cut over; Vulnerability Fixes (Entering UAT) |
+| Dec 15th | UAT Readiness | MFE (Micro Front End) Hard Ready; UAT Regression / Sign off |
+| Dec 17th | Enhancements Release | Enhancements (FIU/FIV + Login/Logout + SAR Email) + Vulnerability Fixes |
+| Jan 8th | Installation (Phase 1) | MFE Hard Install; Vulnerabilities (Critical, High) |
+| Jan 20th | Risk Units & Sign Off | Risk Units + Vulnerabilities; Regression Sign off (UAT Drop) |
+| Jan 28th | Production Push | FIU/FIV Enhancements \rightarrow Production |
+| Feb 3rd | Final Sign Off | Regression Sign off |
+| Feb 11th | Production Deployment | Final Production Deployment |
+Recurring Schedule (Post-February)
+ * Vulnerability Release Cadence: Occurs on the 2nd Wednesday of every month (starting after February).
+Key Notes & Abbreviations
+ * MFE: Likely stands for "Micro Front End."
+ * Vul: Vulnerabilities (marked with C, H for Critical and High severity on Jan 8th).
+ * UAT: User Acceptance Testing.
+ * FIU/FIV: Refers to a specific module (likely Financial Intelligence Unit or similar acronym based on the "SAR Email" context).
+ * SAR: Suspicious Activity Report (common in financial/compliance software).
+Would you like me to convert this into a CSV format so you can import it into Excel or a calendar app?
